@@ -2,11 +2,13 @@ var mongoose = require('mongoose');
 
 var GraphDataSchema = new mongoose.Schema({
   Year: String,
-  Sales: String,
-  Expenses: String
+  Corn: String,
+  Cotton: String,
+  Soybean: String,
+  Wheat: String
 }, 
 {
-  collection: 'graph-data-collection'
+  collection: 'example'
 });
 
 mongoose.model('GraphData', GraphDataSchema);
