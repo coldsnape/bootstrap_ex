@@ -1,0 +1,37 @@
+[
+  {
+    "Year":"Year",
+    "Corn":"Corn",
+    "Cotton":"Cotton",
+    "Soybean":"Soybean",
+    "Wheat":"Wheat"
+  },
+  {
+    "FIELD1":"One",
+    "FIELD2":"1622.54",
+    "FIELD3":"394.11",
+    "FIELD4":"15.54",
+    "FIELD5":"353.24"
+  },
+  {
+    "FIELD1":"Two",
+    "FIELD2":"2150.64",
+    "FIELD3":"452.80",
+    "FIELD4":"19.37",
+    "FIELD5":"426.77"
+  },
+  {
+    "FIELD1":"Three",
+    "FIELD2":"2596.16",
+    "FIELD3":"330.35",
+    "FIELD4":"40.28",
+    "FIELD5":"424.18"
+  },
+  {
+    "FIELD1":"Four",
+    "FIELD2":"3044.05",
+    "FIELD3":"268.75",
+    "FIELD4":"55.72",
+    "FIELD5":"623.87"
+  }
+]
