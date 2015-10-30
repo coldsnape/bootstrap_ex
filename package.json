@@ -1,5 +1,5 @@
 {
-  "name": "simple-chart",
+  "name": "chart",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "ejs": "^2.3.4",
     "express": "~4.13.1",
     "jade": "~1.11.0",
-    "mongoose": "^4.2.2",
+    "mongoose": "^4.2.3",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
   }
